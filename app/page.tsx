@@ -1,12 +1,11 @@
 import Navbar from "@/components/Navbar";
-import ListingGrid from "@/components/ListingGrid";
-import { listings } from "@/data/listings";
+import HomeContent from "@/components/HomeContent";
 
 const HomePage = () => {
   return (
     <main>
       <Navbar />
-      <ListingGrid listings={listings} />
+      <HomeContent />
     </main>
   );
 };
