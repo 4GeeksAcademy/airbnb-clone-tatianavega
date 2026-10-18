@@ -1,14 +1,13 @@
 # Mi clon de Airbnb
 
 Soy Tatiana y estoy aprendiendo a ser ingeniera de IA. En este proyecto
-voy a construir mi propia versión de la página de Airbnb, la web donde
-la gente busca casas para quedarse en sus vacaciones.
+voy a construir mi propia versión de la página de Airbnb, en esta web la gente busca casas para disfrutar sus vacaciones.
 
 ## ¿Quién usa esta plataforma y qué quiere lograr?
-Una persona que está planeando un viaje. Quiere ver muchas casas,
-buscar por nombre, elegir un tipo de lugar (playa, mansiones...),
-comparar precios y, cuando encuentra una que le gusta, ver todos los
-detalles y reservar.
+Una turista que está planeando un viaje. Quiere encontrar una casa que este dentro de su presupuesto y cerca a los lugares que quiere visitar,
+busca por nombre, elije un tipo de lugar (playa, mansiones...),
+compara precios y, cuando encuentra una que le gusta, ve todos los
+detalles y reserva.
 
 ## Las 3 páginas
 
