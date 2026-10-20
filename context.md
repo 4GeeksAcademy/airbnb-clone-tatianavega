@@ -168,3 +168,9 @@ La captura muestra una **página de detalle de alojamiento**, con galería super
 - No aparecen botones de volver, compartir o favoritos, ni la navegación inferior de las capturas anteriores.
 - La captura sugiere una barra de reserva fija, pero una imagen estática no permite confirmar ese comportamiento.
 - El marco exterior, la barra lateral y los controles grises inferiores parecen pertenecer al visor, no a la página.
+
+## Lo que construí
+- Inicio (/): buscador, categorías y tarjetas con carga simulada.
+- Catálogo (/catalog): orden por precio y recuadro de mapa.
+- Detalle (/rooms/[id]): galería, anfitrión, servicios y reserva.
+- Todo navega con <Link>, sin recargar la página.
