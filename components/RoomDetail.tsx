@@ -1,5 +1,6 @@
 "use client";
 
+import BackLink from "./BackLink";
 import { useEffect, useState } from "react";
 import { listings } from "@/data/listings";
 import { Listing } from "@/types/listing";
@@ -34,6 +35,7 @@ const RoomDetail = ({ id }: Props) => {
 
   return (
     <div className="mx-auto max-w-5xl">
+      <BackLink />
       <PhotoGallery photos={photos} />
       <div className="lg:grid lg:grid-cols-3">
         <div className="lg:col-span-2">
