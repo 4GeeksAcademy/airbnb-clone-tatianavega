@@ -4,7 +4,12 @@ export interface Listing {
   location: string;
   pricePerNight: number;
   rating: number;
+  reviews: number;
   category: string;
+  hostName: string;
+  hostYears: number;
+  amenities: string[];
+  maxGuests: number;
 }
 
 export interface Category {
